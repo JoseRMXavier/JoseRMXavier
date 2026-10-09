@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn JS, HTML e CSS and Python
 - 🌱 I’m currently learning a basic of programming, such as algorithm and logic
 - 💞️ I’m looking to collaborate in the subjects that I am learning
-- 📫 How to reach me jrmagno2004@hotmail.com
+- 📫 How to reach me joserenato.xavier@outlook.com
 
 <!---
 JoseRMXavier/JoseRMXavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
